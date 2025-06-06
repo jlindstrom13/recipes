@@ -6,3 +6,4 @@
 * salt
 ## Instructions
 * soak chickpeas overnight
+*IDK STEP 2
